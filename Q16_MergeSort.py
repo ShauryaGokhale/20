@@ -19,3 +19,4 @@ def merge_sort(a):
 
 times = list(map(int, input("Enter delivery times in minutes: ").split()))
 print("Orders by quickest delivery:", *merge_sort(times))
+

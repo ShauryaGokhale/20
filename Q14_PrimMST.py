@@ -25,3 +25,4 @@ else:
     for u, v, w in edges:
         print(u, "-", v, ":", w)
     print("Total weight:", total)
+

@@ -21,3 +21,4 @@ def heap_sort(a):
 a = list(map(int, input("Enter integers: ").split()))
 heap_sort(a)
 print("Sorted array:", *a)
+

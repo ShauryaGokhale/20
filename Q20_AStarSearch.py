@@ -44,3 +44,4 @@ else:
         cell = parent[cell]
     path.reverse()
     print("Path from start to goal:", path)
+

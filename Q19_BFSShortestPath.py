@@ -35,3 +35,4 @@ else:
     path.reverse()
     print("Shortest path:", path)
     print("Path length (moves):", len(path) - 1)
+

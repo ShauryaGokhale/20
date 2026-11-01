@@ -7,3 +7,4 @@ for i in range(n - m + 1):
         matches.append(i)
 
 print("Starting indices:", matches)
+

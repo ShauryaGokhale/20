@@ -33,3 +33,4 @@ print("Depth (number of levels):", depth(root))
 print("Leaf nodes:", end=" ")
 leaves(root)
 print()
+

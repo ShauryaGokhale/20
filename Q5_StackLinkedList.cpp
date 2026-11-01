@@ -47,3 +47,4 @@ int main() {
     while (topNode != nullptr) pop();
     return 0;
 }
+

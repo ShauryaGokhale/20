@@ -44,3 +44,4 @@ else:
     for u, v, w in selected:
         print(u, "-", v, ":", w)
     print("Total weight:", total)
+

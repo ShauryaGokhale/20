@@ -47,3 +47,4 @@ root = delete(root, key)
 print("BST after deletion:", end=" ")
 inorder(root)
 print()
+

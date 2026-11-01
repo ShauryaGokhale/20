@@ -42,3 +42,4 @@ inOrder(root)
 print("\nPostOrder Traversal:", end=" ")
 postOrder(root)
 print()
+

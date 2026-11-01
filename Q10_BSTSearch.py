@@ -32,3 +32,4 @@ if search(root, key):
     print("Key is present")
 else:
     print("Key is not present")
+

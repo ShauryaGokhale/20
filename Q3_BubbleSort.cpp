@@ -31,3 +31,4 @@ int main() {
         cout << s[i].id << " " << s[i].name << " " << s[i].cgpa << "\n";
     return 0;
 }
+

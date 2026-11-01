@@ -15,3 +15,4 @@ for ratio, weight, profit in parcels:
     capacity -= take
 
 print("Maximum profit:", round(total_profit, 2))
+
